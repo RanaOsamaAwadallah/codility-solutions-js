@@ -1,2 +1,6 @@
 Lesson 5:-
 PassingCars: https://app.codility.com/demo/results/trainingQ3C7RG-EN8/
+
+----------------------------------------------------------------------
+Lesson 6:- 
+Distinct: https://app.codility.com/demo/results/trainingCUHH4S-RHH/
