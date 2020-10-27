@@ -21,4 +21,6 @@ Lesson 7 "Stacks & Queues":-
 
 Brackets: https://app.codility.com/demo/results/trainingU2K24B-4JZ/
 
+Fish: https://app.codility.com/demo/results/trainingAMS2XC-62J/
+
 Nesting: https://app.codility.com/demo/results/training54DAM4-4YY/
