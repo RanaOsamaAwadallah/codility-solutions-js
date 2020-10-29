@@ -26,3 +26,9 @@ Fish: https://app.codility.com/demo/results/trainingAMS2XC-62J/
 Nesting: https://app.codility.com/demo/results/training54DAM4-4YY/
 
 StoneWall: https://app.codility.com/demo/results/trainingYMDDMA-WDP/
+
+----------------------------------------------------------------------
+
+Lesson 8 "Leader":-
+-----------------
+Dominator: https://app.codility.com/demo/results/training7NVQRV-MZX/
