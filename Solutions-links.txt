@@ -48,4 +48,6 @@ Lesson 10 "Prime and composite numbers":-
 
 Count factors: https://app.codility.com/demo/results/training359A7V-38H/
 
+MinPerimeterRectangle: https://app.codility.com/demo/results/trainingA3HYMM-T6C/
+
 ------------------------------------------------------------------------------
