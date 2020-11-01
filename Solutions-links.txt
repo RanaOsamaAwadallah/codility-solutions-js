@@ -32,3 +32,8 @@ StoneWall: https://app.codility.com/demo/results/trainingYMDDMA-WDP/
 Lesson 8 "Leader":-
 -----------------
 Dominator: https://app.codility.com/demo/results/training7NVQRV-MZX/
+
+----------------------------------------------------------------------
+
+Lesson 9 "Maximum slice problem"
+* MaxSliceSum: https://app.codility.com/demo/results/training8MNTTC-DRH/ (92%)
