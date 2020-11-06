@@ -51,3 +51,10 @@ Count factors: https://app.codility.com/demo/results/training359A7V-38H/
 MinPerimeterRectangle: https://app.codility.com/demo/results/trainingA3HYMM-T6C/
 
 ------------------------------------------------------------------------------
+
+Lesson 12 "Euclidean algorithm":-
+-------------------------------
+
+ChocolatesByNumbers: https://app.codility.com/demo/results/trainingU2C5S3-AKW/
+
+------------------------------------------------------------------------------
