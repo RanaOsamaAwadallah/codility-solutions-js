@@ -1,11 +1,20 @@
+Lesson 1 "Iterations":-
+---------------------
+
+BinaryGap: https://app.codility.com/demo/results/trainingJXDMB9-FP5/
+
+----------------------------------------------------------------------
+
 Lesson 5 "Prefix Sums":-
 ----------------------
+
 PassingCars: https://app.codility.com/demo/results/trainingQ3C7RG-EN8/
 
 ----------------------------------------------------------------------
 
 Lesson 6 "Sorting":- 
 ------------------
+
 Distinct: https://app.codility.com/demo/results/trainingCUHH4S-RHH/
 
 MaxProductOfThree: https://app.codility.com/demo/results/trainingP33DEP-M2J/
