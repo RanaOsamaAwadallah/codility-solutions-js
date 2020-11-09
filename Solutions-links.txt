@@ -5,6 +5,13 @@ BinaryGap: https://app.codility.com/demo/results/trainingJXDMB9-FP5/
 
 ----------------------------------------------------------------------
 
+Lesson 2 "Arrays":-
+-----------------
+
+CyclicRotation: https://app.codility.com/demo/results/trainingGKBZST-R3U/
+
+----------------------------------------------------------------------
+
 Lesson 5 "Prefix Sums":-
 ----------------------
 
