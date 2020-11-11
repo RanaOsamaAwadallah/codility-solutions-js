@@ -10,6 +10,8 @@ Lesson 2 "Arrays":-
 
 CyclicRotation: https://app.codility.com/demo/results/trainingGKBZST-R3U/
 
+OddOccurrencesInArray: https://app.codility.com/demo/results/training6EJV9C-VEY/
+
 ----------------------------------------------------------------------
 
 Lesson 5 "Prefix Sums":-
