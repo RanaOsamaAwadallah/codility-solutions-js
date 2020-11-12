@@ -14,6 +14,13 @@ OddOccurrencesInArray: https://app.codility.com/demo/results/training6EJV9C-VEY/
 
 ----------------------------------------------------------------------
 
+Lesson 3 "Time Complexity":-
+---------------------------
+
+FrogJump: https://app.codility.com/demo/results/trainingPNN7EG-8JQ/
+
+----------------------------------------------------------------------
+
 Lesson 5 "Prefix Sums":-
 ----------------------
 
