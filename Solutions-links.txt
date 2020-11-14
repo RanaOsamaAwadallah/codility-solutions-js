@@ -21,6 +21,8 @@ FrogJump: https://app.codility.com/demo/results/trainingPNN7EG-8JQ/
 
 PermMissingElem: https://app.codility.com/demo/results/trainingFKT38X-TTH/
 
+TapeEquilibrium: https://app.codility.com/demo/results/trainingDRNYBJ-XZU/
+
 ----------------------------------------------------------------------
 
 Lesson 5 "Prefix Sums":-
