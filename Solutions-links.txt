@@ -19,6 +19,8 @@ Lesson 3 "Time Complexity":-
 
 FrogJump: https://app.codility.com/demo/results/trainingPNN7EG-8JQ/
 
+PermMissingElem: https://app.codility.com/demo/results/trainingFKT38X-TTH/
+
 ----------------------------------------------------------------------
 
 Lesson 5 "Prefix Sums":-
