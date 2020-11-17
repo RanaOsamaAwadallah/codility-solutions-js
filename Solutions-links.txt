@@ -25,6 +25,13 @@ TapeEquilibrium: https://app.codility.com/demo/results/trainingDRNYBJ-XZU/
 
 ----------------------------------------------------------------------
 
+Lesson 4 "Counting Elements":-
+----------------------------
+
+FrogRiverOne: https://app.codility.com/demo/results/trainingR6QCHU-DHU/
+
+----------------------------------------------------------------------
+
 Lesson 5 "Prefix Sums":-
 ----------------------
 
