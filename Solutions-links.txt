@@ -30,6 +30,8 @@ Lesson 4 "Counting Elements":-
 
 FrogRiverOne: https://app.codility.com/demo/results/trainingR6QCHU-DHU/
 
+MaxCounters: https://app.codility.com/demo/results/trainingTASJ9D-UXT/
+
 ----------------------------------------------------------------------
 
 Lesson 5 "Prefix Sums":-
