@@ -43,6 +43,8 @@ Lesson 5 "Prefix Sums":-
 
 CountDiv: https://app.codility.com/demo/results/trainingTQJ78D-FMB/
 
+* GenomicRangeQuery: https://app.codility.com/demo/results/trainingBB2BSQ-5SK/ (75%)
+
 PassingCars: https://app.codility.com/demo/results/trainingQ3C7RG-EN8/
 
 ----------------------------------------------------------------------
