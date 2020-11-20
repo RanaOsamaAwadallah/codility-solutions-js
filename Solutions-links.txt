@@ -41,6 +41,8 @@ PermCheck: https://app.codility.com/demo/results/trainingXNAH48-UKA/
 Lesson 5 "Prefix Sums":-
 ----------------------
 
+CountDiv: https://app.codility.com/demo/results/trainingTQJ78D-FMB/
+
 PassingCars: https://app.codility.com/demo/results/trainingQ3C7RG-EN8/
 
 ----------------------------------------------------------------------
