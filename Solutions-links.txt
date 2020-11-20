@@ -32,6 +32,8 @@ FrogRiverOne: https://app.codility.com/demo/results/trainingR6QCHU-DHU/
 
 MaxCounters: https://app.codility.com/demo/results/trainingTASJ9D-UXT/
 
+MissingInteger: https://app.codility.com/demo/results/training477SCQ-JMP/
+
 ----------------------------------------------------------------------
 
 Lesson 5 "Prefix Sums":-
