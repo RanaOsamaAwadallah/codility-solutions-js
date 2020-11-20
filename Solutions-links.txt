@@ -34,6 +34,8 @@ MaxCounters: https://app.codility.com/demo/results/trainingTASJ9D-UXT/
 
 MissingInteger: https://app.codility.com/demo/results/training477SCQ-JMP/
 
+PermCheck: https://app.codility.com/demo/results/trainingXNAH48-UKA/
+
 ----------------------------------------------------------------------
 
 Lesson 5 "Prefix Sums":-
